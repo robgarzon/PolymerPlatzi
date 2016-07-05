@@ -1,0 +1,21 @@
+{
+  "name": "hola-platzi",
+  "authors": [
+    "Robert Garzón <rgarzon@pukkas.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^0.7.22"
+  }
+}
